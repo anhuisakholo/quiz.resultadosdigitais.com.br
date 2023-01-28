@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap:http://quiz.resultadosdigitais.com.br/sitemap.xml
